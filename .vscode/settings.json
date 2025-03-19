@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {},
+        "tab.activeBackground": "#1d3644",
+        "tab.activeForeground": "#ffffff",
+        "tab.activeBorderTop": "#fd3636",
+        "tab.border": "#1d3644",
+        "statusBar.noFolderBackground": "#046c86"
+    }
+}
