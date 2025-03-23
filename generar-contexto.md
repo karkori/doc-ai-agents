@@ -1,4 +1,4 @@
-# 📌 Proyecto de Documentación del Protocolo MCP de IA  
+# 📌 Proyecto de Documentación del Protocolo MCP de IA   (actualizar)
 
 Estoy trabajando en un proyecto para documentar el **nuevo protocolo MCP de IA**. Este proyecto sigue una **estructura organizada por secciones**, donde **cada sección tiene su propio documento**.  
 
